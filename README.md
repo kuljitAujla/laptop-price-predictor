@@ -45,7 +45,7 @@ The dataset used in this project is the **Laptop Price Dataset** from Kaggle:
 ### 1. Simple Linear Regression (sklearn)
 - **Library**: `sklearn.linear_model.LinearRegression`
 - **Performance**:
-  - R² Score: **0.761**
+  - R² Score: **0.771**
   - RMSE: **262.17**
   - MAE: **181.36**
 
@@ -58,9 +58,9 @@ The dataset used in this project is the **Laptop Price Dataset** from Kaggle:
 - **Training**: 200 epochs with validation data
 - **Data Scaling**: StandardScaler from sklearn
 - **Performance**:
-  - R² Score: **0.793**
-  - RMSE: **243.93**
-  - MAE: **174.64**
+  - R² Score: **0.861**
+  - RMSE: **187.12**
+  - MAE: **132.73**
 
 ### Results Comparison
 
